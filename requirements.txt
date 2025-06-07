@@ -1,0 +1,7 @@
+google-adk
+praw # check this lib later.
+python-dotenv
+litellm
+requests >=2.31.0
+fastapi >=0.100.0
+uvicorn[standard] >=0.20.0 #includes performance extras.
